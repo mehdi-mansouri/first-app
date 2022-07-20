@@ -1,0 +1,11 @@
+.app{
+  text-align: center;
+ 
+}
+.app h1{
+  color: bisque;
+}
+.mybutton{
+  background-color: rgb(81, 165, 42);
+  color: darksalmon;
+}
